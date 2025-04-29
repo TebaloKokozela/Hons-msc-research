@@ -1,8 +1,9 @@
 # Hons-msc-research
 
 
-`Paper` - contains poster which is a very high level summary of the research and focuses more on the outcomes/results sections in relation to the paper. More results are added here has the paper had a lot of works and less graphs.
-`main.pdf` - is the full article, should be noted that this work was never published and done with no intention to do so.
+1. `Paper` - contains poster which is a very high level summary of the research and focuses more on the outcomes/results sections in relation to the paper. More results are added here has the paper had a lot of works and less graphs.
+
+2. `main.pdf` - is the full article, should be noted that this work was never published and done with no intention to do so.
 
  | **Year**  | **File name**             |  **File description**                                               |
  |-----------|---------------------------|---------------------------------------------------------------------|
